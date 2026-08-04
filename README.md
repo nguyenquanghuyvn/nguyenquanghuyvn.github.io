@@ -1,52 +1,21 @@
-# Quang Huy Nguyen — Personal Website
+# Quang Huy Nguyen — Academic Website
 
-This repository contains the source files for my personal website, an experimental, environmental, and agricultural economist based in Strasbourg, France.
+This repository contains the source files for my academic website.
 
-The website presents a connected research agenda on how information, incentives, and institutions shape sustainable economic decisions. The work spans agricultural technology adoption, sustainable food consumption, and climate adaptation finance.
+I am an experimental, environmental, and agricultural economist. My research studies how information, incentives, and institutions shape sustainable technology adoption, food choices, and climate adaptation.
 
-## Research programs
+The website includes:
 
-### Information and agricultural technology adoption
+- a concise academic homepage;
+- research organized by theme;
+- accessible summaries of publications and working papers;
+- conference and seminar presentations;
+- research experience, education, and methods; and
+- contact information and experimental-program links.
 
-This research examines peer learning, bargaining, credibility, demonstration design, and organic certification. It asks how useful evidence is produced, communicated, and translated into adoption decisions.
-
-### Sustainable consumption and food systems
-
-This work studies social influence and consumer decisions in sustainable food markets, including a systematic meta-analysis of social norms and organic-food choice.
-
-### Climate risk and adaptation finance
-
-This research investigates how climate disclosure, verification, contract design, and financing constraints affect investment in resilience.
-
-## Methods
-
-The research combines:
-
-- Laboratory and field experiments
-- Discrete choice experiments
-- Applied econometrics
-- Meta-analysis and evidence synthesis
-- Economic theory
-- Reproducible analysis in R and Python
-- Experimental software development with oTree
-
-## Website content
-
-The site includes:
-
-- A concise research profile
-- Public-facing summaries of individual papers
-- Formal publication and working-paper listings
-- Research experience and methodological skills
-- Education and contact information
-
-Working-paper pages include a **Request full text** link for readers who would like to contact the author.
+The site is built with HTML, CSS, JavaScript, Markdown, Jekyll, and GitHub Pages.
 
 ## Contact
 
-**Quang Huy Nguyen**  
-Economist  
-Strasbourg, France  
+Quang Huy Nguyen  
 [nguyenquanghuyib@gmail.com](mailto:nguyenquanghuyib@gmail.com)
-
-© Quang Huy Nguyen. Research summaries may be cited with appropriate attribution.

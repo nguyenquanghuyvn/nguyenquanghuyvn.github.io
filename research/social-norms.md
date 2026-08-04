@@ -1,7 +1,7 @@
 ---
 layout: paper
-title: "Social norms and organic food choice"
-description: "Social norms and organic food choice."
+title: "Social Norms and Organic Food Choice"
+description: "A meta-analysis of how social influence is associated with organic-food choices."
 status: "Working paper"
 authors: "Quang Huy Nguyen and Phu Nguyen-Van"
 request_full_text: true

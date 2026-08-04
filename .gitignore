@@ -1,6 +1,9 @@
 .DS_Store
 Thumbs.db
 _site/
-.jekyll-cache/
 .sass-cache/
-.venv
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.venv/

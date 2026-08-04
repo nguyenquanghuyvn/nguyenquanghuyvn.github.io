@@ -18,23 +18,14 @@
 </head>
 <body>
   <main class="paper-page">
-    <article class="container paper-article">
-      <a href="{{ '/#research' | relative_url }}" class="back-link">← Back to research</a>
+    <article class="paper-shell paper-article">
+      <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to research</a>
 
       <header class="paper-header">
-        {% if page.status %}
-          <p class="paper-status">{{ page.status }}</p>
-        {% endif %}
-
+        {% if page.status %}<p class="paper-status">{{ page.status }}</p>{% endif %}
         <h1>{{ page.title }}</h1>
-
-        {% if page.authors %}
-          <p class="paper-authors">{{ page.authors }}</p>
-        {% endif %}
-
-        {% if page.journal %}
-          <p class="paper-journal">{{ page.journal }}</p>
-        {% endif %}
+        {% if page.authors %}<p class="paper-authors">{{ page.authors }}</p>{% endif %}
+        {% if page.journal %}<p class="paper-journal">{{ page.journal }}</p>{% endif %}
       </header>
 
       <div class="paper-content">
@@ -52,19 +43,19 @@ I would like to request the full text of your paper:
 Thank you.
 
 Best regards,{% endcapture %}
-
         <section class="full-text-request">
-          <p>The full manuscript is available upon request.</p>
+          <h2>Full text</h2>
+          <p>The manuscript is available upon request.</p>
           <a class="request-full-text-button" href="mailto:{{ site.email }}?subject={{ email_subject | strip | uri_escape }}&body={{ email_body | strip | uri_escape }}">Request full text</a>
         </section>
       {% endif %}
     </article>
   </main>
 
-  <footer class="site-footer">
-    <div class="container paper-footer">
+  <footer class="site-footer paper-footer">
+    <div class="paper-shell footer-wrap">
       <p>© {{ site.time | date: "%Y" }} Quang Huy Nguyen</p>
-      <a href="{{ '/' | relative_url }}">Return to homepage</a>
+      <a href="{{ '/' | relative_url }}">Homepage</a>
     </div>
   </footer>
 </body>
