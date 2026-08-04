@@ -4,5 +4,5 @@ email: nguyenquanghuyib@gmail.com
 markdown: kramdown
 
 url: "https://nguyenquanghuyvn.github.io"
-baseurl: "/nguyenquanghuy.github.io"
+baseurl: ""
 permalink: pretty
