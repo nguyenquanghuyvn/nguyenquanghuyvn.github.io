@@ -3,7 +3,7 @@ layout: paper
 title: "One-Sided Climate Transparency"
 description: "A theoretical study of why better climate-risk information may fail to increase adaptation when lenders can price exposure but cannot fully recognize resilience."
 status: "Working paper"
-authors: "Quang Huy Nguyen"
+authors: "Huy Nguyen-Quang"
 request_full_text: true
 permalink: /research/one-sided-climate-transparency/
 ---

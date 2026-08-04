@@ -3,7 +3,7 @@ layout: paper
 title: "Bargaining over Information Surplus in an Organic-Agriculture Decision"
 description: "A lab-in-the-field experiment on bargaining, information sharing, and organic-agriculture decisions."
 status: "Working paper"
-authors: "Quang Huy Nguyen, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The"
+authors: "Huy Nguyen-Quang, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The"
 request_full_text: true
 permalink: /research/bargaining-information/
 ---

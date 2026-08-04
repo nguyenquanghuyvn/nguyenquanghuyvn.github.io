@@ -3,7 +3,7 @@ layout: paper
 title: "Who Should Experiment First?"
 description: "A theoretical study of how farmer selection and communication incentives shape the external validity of agricultural demonstration programs."
 status: "Working paper"
-authors: "Quang Huy Nguyen"
+authors: "Huy Nguyen-Quang"
 request_full_text: true
 permalink: /research/who-should-experiment-first/
 ---

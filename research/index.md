@@ -35,7 +35,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Experiment</p>
           <h3><a href="{{ '/research/bargaining-information/' | relative_url }}">Bargaining over Information Surplus in an Organic-Agriculture Decision</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The</p>
+          <p class="entry-authors">Huy Nguyen-Quang, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The</p>
           <p>A lab-in-the-field experiment on information sharing, negotiated surplus, and risky organic-agriculture decisions.</p>
           <div class="entry-links"><a href="{{ '/research/bargaining-information/' | relative_url }}">Public summary</a></div>
         </article>
@@ -43,7 +43,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Theory</p>
           <h3><a href="{{ '/research/credible-information-diffusion/' | relative_url }}">Credible Information Diffusion and Risky Organic Technology Adoption</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen</p>
+          <p class="entry-authors">Huy Nguyen-Quang</p>
           <p>A model of when rewarded peer advice remains credible when recommendation quality is difficult to verify before adoption.</p>
           <div class="entry-links"><a href="{{ '/research/credible-information-diffusion/' | relative_url }}">Public summary</a></div>
         </article>
@@ -51,7 +51,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Theory</p>
           <h3><a href="{{ '/research/who-should-experiment-first/' | relative_url }}">Who Should Experiment First?</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen</p>
+          <p class="entry-authors">Huy Nguyen-Quang</p>
           <p>How farmer selection and communication incentives shape the external validity of agricultural demonstration programs.</p>
           <div class="entry-links"><a href="{{ '/research/who-should-experiment-first/' | relative_url }}">Public summary</a></div>
         </article>

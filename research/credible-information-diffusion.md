@@ -3,7 +3,7 @@ layout: paper
 title: "Credible Information Diffusion and Risky Organic Technology Adoption"
 description: "A theoretical study of when farmers can trust advice from informed peers about risky organic practices."
 status: "Working paper"
-authors: "Quang Huy Nguyen"
+authors: "Huy Nguyen-Quang"
 request_full_text: true
 permalink: /research/credible-information-diffusion/
 ---

@@ -16,6 +16,14 @@ permalink: /talks/
 
 <section class="content-section">
   <div class="content-shell chronology">
+
+    <section class="year-group">
+      <h2>2026</h2>
+      <ul>
+        <li>World Congress of Environmental and Resource Economists (WCERE), Carcavalos, Portugal</li>
+      </ul>
+    </section>
+
     <section class="year-group">
       <h2>2025</h2>
       <ul>

@@ -19,7 +19,7 @@ permalink: /experience/
     <div>
       <h2>Appointments</h2>
       <article class="experience-item">
-        <p class="entry-status">2024–2025</p>
+        <p class="entry-status">2024–2026</p>
         <h3>Postdoctoral Researcher · GAEL, Université Grenoble Alpes</h3>
         <p>Contributed to an experimental research project on insect-based foods, including literature review, hypothesis development, oTree programming, laboratory implementation, behavioral-data analysis, and scientific writing.</p>
       </article>
