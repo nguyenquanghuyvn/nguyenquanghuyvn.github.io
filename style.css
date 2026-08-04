@@ -369,7 +369,7 @@ p { margin-top: 0; }
   html { scroll-behavior: auto; }
 }
 
-.profile-photo-wrapper {
+/* .profile-photo-wrapper {
   width: 220px;
   height: 220px;
   margin: 0 auto;
@@ -385,4 +385,4 @@ p { margin-top: 0; }
   display: block;
   object-fit: cover;
   object-position: center;
-}
+} */

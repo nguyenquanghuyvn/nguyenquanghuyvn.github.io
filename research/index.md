@@ -69,7 +69,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Meta-analysis</p>
           <h3><a href="{{ '/research/social-norms/' | relative_url }}">Social Norms and Organic Food Choice</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen and Phu Nguyen-Van</p>
+          <p class="entry-authors">Huy Nguyen-Quang and Phu Nguyen-Van</p>
           <p>A systematic meta-analysis of the association between social norms and organic-food choice, with particular attention to the gap between purchase intention and observed behavior.</p>
           <div class="entry-links"><a href="{{ '/research/social-norms/' | relative_url }}">Public summary</a></div>
         </article>
@@ -87,7 +87,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Theory</p>
           <h3><a href="{{ '/research/one-sided-climate-transparency/' | relative_url }}">One-Sided Climate Transparency</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen</p>
+          <p class="entry-authors">Huy Nguyen-Quang</p>
           <p>Why better climate-risk information may fail to increase adaptation when lenders can price exposure but cannot fully   recognize resilience.</p>
           <div class="entry-links"><a href="{{ '/research/one-sided-climate-transparency/' | relative_url }}">Public summary</a></div>
         </article>
@@ -96,7 +96,7 @@ permalink: /research/
         <article class="paper-entry">
           <p class="entry-status">Working paper · Theory</p>
           <h3><a href="{{ '/research/verified-capacity-voluntary-cost-sharing/' | relative_url }}">Verified Capacity and Voluntary Cost Sharing: An Anchor–Fringe Theory of Reusable Evidence</a></h3>
-          <p class="entry-authors">Quang Huy Nguyen</p>
+          <p class="entry-authors">Huy Nguyen-Quang</p>
           <p>A theoretical study of how documented payment capacity can first enable a shared project and then make a pivotal participant unwilling to join.</p>
           <div class="entry-links"><a href="{{ '/research/verified-capacity-voluntary-cost-sharing/' | relative_url }}">Public summary</a></div>
         </article>
